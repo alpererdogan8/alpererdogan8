@@ -13,5 +13,5 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/alpererdogan08)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-erdogan-13a009148/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpererdogan8)
-[![](https://alpererdogan.dev/images/ae.svg)](https://alpererdogan.dev)
+[<img src="https://alpererdogan.dev/images/ae.svg" width="28" />](https://alpererdogan.dev)
 [![Mail Badge](https://img.shields.io/badge/alpererdogan8@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:alpererdogan8@gmail.com)
