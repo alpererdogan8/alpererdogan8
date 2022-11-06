@@ -5,7 +5,7 @@
 # Hello, I'm Alper Erdogan! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpererdogan8" alt="alpererdogan8" /> </p>
 
-[![](https://img.shields.io/twitter/follow/alpererdogan08?style=social)](https://www.twitter.com/alpererdogan08)
+[![](https://img.shields.io/twitter/follow/alpererdogan08?style=social)](https://www.twitter.com/alpererdogandev)
 [![](https://img.shields.io/github/followers/alpererdogan8?style=social)](https://www.github.com/alpererdogan8)
 
 
