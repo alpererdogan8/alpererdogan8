@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript/NodeJS-black?style=flat-square&logo=JavaScript)
 ![JavaScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB/Mongoose-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React/NextJS-black?style=flat-square&logo=React)
 ![Python](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Sass)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
