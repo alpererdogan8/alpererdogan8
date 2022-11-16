@@ -3,6 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alpererdogan8&show_icons=true&theme=dark">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript/NodeJS-black?style=flat-square&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![React](https://img.shields.io/badge/-React/NextJS-black?style=flat-square&logo=React)
 ![Python](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Sass)
