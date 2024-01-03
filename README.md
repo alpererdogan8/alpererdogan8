@@ -17,6 +17,5 @@
 [![](https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/alpererdogandev)
 [![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-erdogan-13a009148/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpererdogan8)
-[<img src="https://www.alpererdogan.dev/static/icons/favicon.ico" width="25"  />](https://alpererdogan.dev)
-  
+[<img src="https://www.alpererdogan.dev/static/icons/logo-light.ico" width="25" />](https://alpererdogan.dev)
 </div>
