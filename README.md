@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Alper Erdogan! 👋 🚀</h1>
+<h1>Hi, I'm Alper Erdogan!</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=alpererdogan8&show_icons=true&theme=dark">
 <br/><br/>
 
