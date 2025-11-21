@@ -1,1 +1,1 @@
-Fallen seven times, rising for the eighth. Again.
+Fallen seven times. Now, rising for the eighth. Again.
